@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jonathan%20Infante&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20BSIT%20Student%20%7C%20Naga%20City%2C%20PH%20🇵🇭&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=550&lines=🌐+Web+Developer;📱+Mobile+Developer;⚙️+Systems+Developer;🎮+Game+Developer;🚀+Always+Building+%26+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=550&lines=+Web+Developer;+Mobile+Developer;+Systems+Developer;+Game+Developer;+Always+Building+%26+Learning)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,13 +32,13 @@
 
 ---
 
-## 🚀 What I Do & Currently Learning
+## What I Do & Currently Learning
 
 <table>
 <tr>
 <td width="50%">
 
-###  What I Build
+### What I Build
 - **Web Apps** — Responsive & Modern UIs
 - **Systems** — CRUD, Management Systems
 - **Mobile Apps** — Android & Cross-platform
@@ -58,7 +58,7 @@
 <tr>
 <td width="50%">
 
-### ⚡ Quick Facts
+### Quick Facts
 - 2nd Year BSIT @ AdNU
 - Passionate about problem solving
 - Built 4+ real-world projects
@@ -67,11 +67,11 @@
 </td>
 <td width="50%">
 
-### 🎯 2025 Goals
-- ✅ Launch personal portfolio
-- 🔄 Build full-stack projects
-- 🔄 Get internship/freelance work
-- 🔄 Contribute to open source
+### 2025 Goals
+- Launch personal portfolio
+- Build full-stack projects
+- Get internship/freelance work
+- Contribute to open source
 
 </td>
 </tr>
@@ -79,7 +79,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
