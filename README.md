@@ -171,6 +171,31 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jonathan-infante&color=10b981&style=for-the-badge&label=Profile+Views)
 
 *"The best way to predict the future is to build it."*
+---
+
+## 🐍 Swallowing My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonathan-infante/jonathan-infante/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonathan-infante/jonathan-infante/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/jonathan-infante/jonathan-infante/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jonathan-infante&color=10b981&style=for-the-badge&label=Profile+Views)
+
+*"The best way to predict the future is to build it."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
