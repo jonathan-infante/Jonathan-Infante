@@ -12,9 +12,9 @@
 
 ---
 
-## 👨‍💻 About Me---
+##  About Me---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
