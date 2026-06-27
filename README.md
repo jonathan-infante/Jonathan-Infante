@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```json
 {
@@ -38,20 +38,20 @@
 <tr>
 <td width="50%">
 
-### 💼 What I Build
-- 🌐 **Web Apps** — Responsive & Modern UIs
-- ⚙️ **Systems** — CRUD, Management Systems
-- 📱 **Mobile Apps** — Android & Cross-platform
-- 🎮 **Games** — 2D & 3D with Unity
+###  What I Build
+- **Web Apps** — Responsive & Modern UIs
+- **Systems** — CRUD, Management Systems
+- **Mobile Apps** — Android & Cross-platform
+- **Games** — 2D & 3D with Unity
 
 </td>
 <td width="50%">
 
-### 📚 Currently Learning
-- ⚡ React & Tailwind CSS
-- 🛠️ Node.js & REST APIs
-- 🤖 AI Tools Integration
-- 🗄️ Database Design (MySQL)
+### Currently Learning
+- React & Tailwind CSS
+-  Node.js & REST APIs
+- AI Tools Integration
+- Database Design (MySQL)
 
 </td>
 </tr>
@@ -59,10 +59,10 @@
 <td width="50%">
 
 ### ⚡ Quick Facts
-- 🎓 2nd Year BSIT @ AdNU
-- 💡 Passionate about problem solving
-- 🔨 Built 4+ real-world projects
-- 🤝 Team player & fast learner
+- 2nd Year BSIT @ AdNU
+- Passionate about problem solving
+- Built 4+ real-world projects
+- Team player & fast learner
 
 </td>
 <td width="50%">
@@ -81,27 +81,27 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend & Database
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💬 Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9B4993?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
@@ -110,7 +110,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -133,18 +133,18 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+| Project | Description | Stack |  Link |
 |-----------|---------------|---------|---------|
-| 🌐 **Portfolio Website** | Cyberpunk-themed portfolio with AI chat assistant | HTML · CSS · JS | [View →](https://github.com/jonathan-infante/FINALPORTFOLIO) |
-| 🏫 **School Enrollment System** | Full CRUD student management & enrollment platform | HTML · CSS · JS | [View →](https://github.com/jonathan-infante) |
-| 📱 **Mobile Task Manager** | Cross-platform productivity app with priority system | React Native · Android | [View →](https://github.com/jonathan-infante) |
-| 🎮 **2D Adventure Game** | Pixel art adventure game with procedural level design | Unity · C# | [View →](https://github.com/jonathan-infante) |
+|  **Portfolio Website** | Cyberpunk-themed portfolio with AI chat assistant | HTML · CSS · JS | [View →](https://github.com/jonathan-infante/FINALPORTFOLIO) |
+|  **School Enrollment System** | Full CRUD student management & enrollment platform | HTML · CSS · JS | [View →](https://github.com/jonathan-infante) |
+|  **Mobile Task Manager** | Cross-platform productivity app with priority system | React Native · Android | [View →](https://github.com/jonathan-infante) |
+|  **2D Adventure Game** | Pixel art adventure game with procedural level design | Unity · C# | [View →](https://github.com/jonathan-infante) |
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
@@ -159,7 +159,7 @@
 
 <div align="center">
 
-### 💬 Random Dev Quote
+###  Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -173,7 +173,7 @@
 *"The best way to predict the future is to build it."*
 ---
 
-## 🐍 Swallowing My Contributions
+##  Swallowing My Contributions
 
 <div align="center">
 
