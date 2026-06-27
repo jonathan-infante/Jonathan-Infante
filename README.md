@@ -64,14 +64,14 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🌐 **Portfolio Website** | Cyberpunk-themed personal portfolio with AI chat | HTML · CSS · JS |
-| 🗂️ **Student Management System** | Full CRUD academic records platform | HTML · CSS · JS |
-| 📱 **Mobile Task Manager** | Cross-platform productivity app | React Native · Android |
-| 🎮 **2D Adventure Game** | Pixel art adventure game prototype | Unity · C# |
+| **Portfolio Website** | Cyberpunk-themed personal portfolio with AI chat | HTML · CSS · JS |
+| **Student Management System** | Full CRUD academic records platform | HTML · CSS · JS |
+| **Mobile Task Manager** | Cross-platform productivity app | React Native · Android |
+| **2D Adventure Game** | Pixel art adventure game prototype | Unity · C# |
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
