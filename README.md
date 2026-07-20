@@ -110,12 +110,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathan-infante&theme=tokyonight&border=10b981&ring=10b981&fire=06b6d4&currStreakLabel=10b981&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
-
----
 
 ## Featured Projects
 
