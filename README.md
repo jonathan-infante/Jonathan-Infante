@@ -21,8 +21,8 @@
   "alias"      : "jonathan-infante",
   "location"   : "Naga City, Camarines Sur 🇵🇭",
   "school"     : "Ateneo de Naga University",
-  "course"     : "BS Information Technology — 2nd Year",
-  "role"       : "Software Developer & Student",
+  "course"     : "BS Information Technology",
+  "role"       : "Software Developer",
   "focus"      : "Building modern digital solutions",
   "goal"       : "Securing internship & freelance projects",
   "open_to"    : ["Internships", "Freelance", "Collaborations"],
@@ -32,7 +32,7 @@
 
 ---
 
-## What I Do & Currently Learning
+## What I Do
 
 <table>
 <tr>
@@ -47,11 +47,12 @@
 </td>
 <td width="50%">
 
-### Currently Learning
-- React & Tailwind CSS
--  Node.js & REST APIs
-- AI Tools Integration
-- Database Design (MySQL)
+### Core Skills
+- Object-Oriented Programming (OOP)
+- Desktop Application Development
+- Database Design
+- Problem Solving
+- Version Control
 
 </td>
 </tr>
@@ -59,9 +60,8 @@
 <td width="50%">
 
 ### Quick Facts
-- 2nd Year BSIT @ AdNU
 - Passionate about problem solving
-- Built 4+ real-world projects
+- Built 5+ real-world projects
 - Team player & fast learner
 
 </td>
