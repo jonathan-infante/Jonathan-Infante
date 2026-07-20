@@ -125,11 +125,6 @@
 
 </div>
 
-<div align="center">
-
-[![Jonathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan-infante&theme=tokyo-night&color=10b981&line=06b6d4&point=10b981&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
