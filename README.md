@@ -108,17 +108,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jonathan-infante&show_icons=true&theme=tokyonight&border_color=10b981&title_color=10b981&icon_color=06b6d4&count_private=true&hide_border=false"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-infante&layout=compact&theme=tokyonight&border_color=10b981&title_color=10b981&hide_border=false"/>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonathan-infante&theme=tokyonight&border=10b981&ring=10b981&fire=06b6d4&currStreakLabel=10b981&hide_border=false)](https://git.io/streak-stats)
