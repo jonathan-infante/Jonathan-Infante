@@ -40,8 +40,8 @@
 
 ### What I Build
 - **Web Apps** — Responsive & Modern UIs
-- **Systems** — CRUD, Management Systems
-- **Mobile Apps** — Android & Cross-platform
+- **Systems** — Management Systems
+- **Mobile Apps** — Android
 - **Games** — 2D & 3D with Unity
 
 </td>
@@ -51,7 +51,6 @@
 - Object-Oriented Programming (OOP)
 - Desktop Application Development
 - Database Design
-- Problem Solving
 - Version Control
 
 </td>
@@ -60,7 +59,6 @@
 <td width="50%">
 
 ### Quick Facts
-- Passionate about problem solving
 - Built 5+ real-world projects
 - Team player & fast learner
 
